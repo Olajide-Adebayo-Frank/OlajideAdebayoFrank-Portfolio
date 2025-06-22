@@ -280,7 +280,5 @@ html {
   <p>&copy; 2024 Olajide Adebayo Frank. All rights reserved.</p>
 </footer>
 
-</script>
-
 </body>
 </html>
