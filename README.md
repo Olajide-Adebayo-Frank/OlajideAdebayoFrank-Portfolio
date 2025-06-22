@@ -280,10 +280,6 @@ html {
   <p>&copy; 2024 Olajide Adebayo Frank. All rights reserved.</p>
 </footer>
 
-<script>
-  // Optional: Add some interactivity if needed
-  // For example, a button to scroll to top
-  // But for now, the smooth scrolling via CSS is enough
 </script>
 
 </body>
